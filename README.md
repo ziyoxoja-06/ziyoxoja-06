@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ziyoxoja-06
 - 👀 I’m interested in ... Make website
-- 🌱 I’m currently learning ... dscscv
+- 🌱 I’m currently learning ... Nuxt js
 - 💞️ I’m looking to collaborate on ...dsfvfdv
 - 📫 How to reach me ... erfvsdfv
 
